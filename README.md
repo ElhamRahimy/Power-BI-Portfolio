@@ -1,4 +1,4 @@
-# power-bi-portfolio
+# Power BI Portfolio
 Power BI dashboards and business intelligence projects
 
 ### Project & Financial Performance Dashboard | Power BI
