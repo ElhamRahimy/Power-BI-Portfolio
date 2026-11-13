@@ -1,4 +1,4 @@
-### Project & Financial Performance Dashboard | Power BI
+# Project & Financial Performance Dashboard | Power BI
 
 An interactive Power BI dashboard designed to monitor project progress, financial performance, and invoice management.
 
