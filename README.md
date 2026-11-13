@@ -21,4 +21,4 @@ Note: This dashboard uses synthetic sample data for demonstration and portfolio 
 ### Dashboard Demo
 Watch the Power BI dashboard demonstration:
 
-[▶ Watch Dashboard Demo](Project%26Invoice%20Dashboard.mp4)
+https://github.com/user-attachments/assets/2c923052-657e-4086-9e1f-1c3a82515dea
