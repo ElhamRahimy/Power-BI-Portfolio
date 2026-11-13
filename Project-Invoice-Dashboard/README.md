@@ -1,6 +1,3 @@
-# Power BI Portfolio
-Power BI dashboards and business intelligence projects
-
 ### Project & Financial Performance Dashboard | Power BI
 
 An interactive Power BI dashboard designed to monitor project progress, financial performance, and invoice management.
