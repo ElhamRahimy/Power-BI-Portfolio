@@ -8,46 +8,37 @@ The reporting solution was used by the parent holding's PMO and the PMO offices 
 
 Built using real enterprise project data, the dashboards provide both portfolio-level and individual project-level insights, enabling management to evaluate project progress, budgets, expenditures, schedule deviations, and overall project performance.
 
-## Data Sources & Technical Architecture
+## Data Sources & Technical Implementation
 
-The dashboard was developed using enterprise project data sourced from **Microsoft Project Server environments across a parent holding company and four sub-holdings**, with project information stored in **Microsoft SQL Server databases**.
+Designed and developed an enterprise-level Power BI reporting solution by independently extracting, integrating, and analyzing project management data from **Microsoft Project Server SQL Server databases** across a parent holding company and four sub-holdings.
 
-The solution involved working with the complex relational data structures of Microsoft Project Server, requiring an understanding of project management data models, relationships, and reporting requirements.
+The solution supported centralized project portfolio reporting for the parent holding's PMO and the PMO offices of four sub-holdings within a large corporate group comprising hundreds of subsidiary companies.
 
-**Key Technical Aspects:**
-- Integration of project reporting data from five organizational environments: the parent holding and four sub-holdings.
-- Working with SQL Server-based Microsoft Project Server data structures.
-- Understanding and mapping relationships between project schedules, tasks, resources, costs, and progress information.
-- Supporting consolidated reporting across multiple PMO offices and organizational levels.
-- Translating complex project management data into actionable KPIs, financial performance reports, and Earned Value Management (EVM) indicators.
+### Key Technical Responsibilities
 
-**Technical Challenge**
+- **SQL Development:** Independently developed SQL queries to retrieve and analyze project management data from complex Microsoft Project Server databases.
+- **Database Analysis:** Investigated relational database structures and identified relationships between projects, tasks, resources, schedules, costs, and progress data.
+- **Data Integration:** Consolidated project reporting data from the parent holding and four sub-holdings into a unified reporting solution.
+- **Data Modeling:** Structured and modeled project data to support portfolio-level and project-level analysis in Power BI.
+- **EVM Analytics:** Implemented Earned Value Management indicators, including BAC, PV, EV, AC, CV, SV, CPI, SPI, EAC, and ETC.
+- **Dashboard Development:** Designed interactive Power BI dashboards for executive reporting, project financial analysis, schedule monitoring, and portfolio performance assessment.
 
-Microsoft Project Server uses a sophisticated relational data model. Developing meaningful portfolio-level reporting requires more than basic SQL querying; it demands a solid understanding of project scheduling concepts, project data relationships, and the underlying enterprise reporting architecture.
+### Technical Complexity
 
-This project demonstrates the ability to work with complex enterprise project management data and transform it into structured, management-oriented Business Intelligence reports.
+Microsoft Project Server databases contain complex, interconnected project management data structures that require specialized knowledge of both SQL Server and enterprise project management concepts.
 
-## Key Features
+This project required independently understanding these relationships, extracting relevant data, and transforming complex project information into meaningful business intelligence reports.
 
-- **Enterprise Portfolio Monitoring:** Consolidated reporting across multiple organizational levels and project portfolios.
-- **Earned Value Management (EVM):** Monitoring BAC, PV, EV, AC, CV, SV, CPI, SPI, EAC, and ETC.
-- **Financial Performance Analysis:** Approved budgets, actual expenditures, committed costs, and financial trends.
-- **Schedule & Progress Tracking:** Planned versus actual progress, S-Curves, milestones, and schedule deviations.
-- **Risk Monitoring:** Project risk reporting and assessment.
-- **Multi-Level Reporting:** Portfolio overview and detailed project performance analysis.
-- **Multi-Currency Reporting:** Financial information across different currencies.
+### Business Impact
 
-## Business Value
+- Enabled consolidated portfolio visibility across five holding-level organizational environments.
+- Supported standardized reporting for the parent holding's PMO and four sub-holding PMO offices.
+- Improved management visibility into project budgets, actual costs, schedule deviations, and Earned Value Management indicators.
+- Supported data-driven project governance and identification of potential cost and schedule performance issues.
 
-- Established a centralized reporting view for the parent holding's PMO and four sub-holding PMO offices.
-- Improved visibility into project performance across a large, multi-company organizational structure.
-- Supported management decision-making through consolidated financial and schedule performance indicators.
-- Enabled early identification of project delays, cost variances, and potential performance issues.
-- Supported standardized project performance monitoring and reporting across different organizational levels.
+### Tools & Technologies
 
-## Tools & Technologies
-
-Power BI | Microsoft Project Server | SQL Server | Project Portfolio Management (PPM) | Earned Value Management (EVM) | Enterprise BI | Project Controls | Data Integration
+**Microsoft SQL Server | SQL Queries | Microsoft Project Server | Power BI | Data Integration | Data Modeling | Earned Value Management (EVM) | Project Portfolio Management (PPM) | Project Controls**
 
 ## Dashboard Screenshots
 
