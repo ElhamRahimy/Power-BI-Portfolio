@@ -33,14 +33,10 @@ Power BI | Earned Value Management (EVM) | Project Portfolio Management | Projec
 ## Dashboard Screenshots
 
 ### Portfolio Overview
-
 ![Portfolio Overview](Main%20Page-01.jpg)
 
 ### Project Performance & EVM Analysis
-
 ![Project Details](Detail%20Page-02.jpg)
-
-## Data Confidentiality
 
 This project was developed using real enterprise data. Screenshots have been partially anonymized to protect confidential organizational and project information.
 
