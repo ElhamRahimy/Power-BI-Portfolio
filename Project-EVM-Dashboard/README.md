@@ -8,6 +8,25 @@ The reporting solution was used by the parent holding's PMO and the PMO offices 
 
 Built using real enterprise project data, the dashboards provide both portfolio-level and individual project-level insights, enabling management to evaluate project progress, budgets, expenditures, schedule deviations, and overall project performance.
 
+## Data Sources & Technical Architecture
+
+The dashboard was developed using enterprise project data sourced from **Microsoft Project Server environments across a parent holding company and four sub-holdings**, with project information stored in **Microsoft SQL Server databases**.
+
+The solution involved working with the complex relational data structures of Microsoft Project Server, requiring an understanding of project management data models, relationships, and reporting requirements.
+
+**Key Technical Aspects:**
+- Integration of project reporting data from five organizational environments: the parent holding and four sub-holdings.
+- Working with SQL Server-based Microsoft Project Server data structures.
+- Understanding and mapping relationships between project schedules, tasks, resources, costs, and progress information.
+- Supporting consolidated reporting across multiple PMO offices and organizational levels.
+- Translating complex project management data into actionable KPIs, financial performance reports, and Earned Value Management (EVM) indicators.
+
+**Technical Challenge**
+
+Microsoft Project Server uses a sophisticated relational data model. Developing meaningful portfolio-level reporting requires more than basic SQL querying; it demands a solid understanding of project scheduling concepts, project data relationships, and the underlying enterprise reporting architecture.
+
+This project demonstrates the ability to work with complex enterprise project management data and transform it into structured, management-oriented Business Intelligence reports.
+
 ## Key Features
 
 - **Enterprise Portfolio Monitoring:** Consolidated reporting across multiple organizational levels and project portfolios.
