@@ -33,10 +33,12 @@ Power BI | Earned Value Management (EVM) | Project Portfolio Management | Projec
 ## Dashboard Screenshots
 
 ### Portfolio Overview
-![Portfolio Overview](Main%20Page-01.jpg)
+<img width="1917" height="925" alt="Main Page-01" src="https://github.com/user-attachments/assets/2eb978d6-0872-4d0c-a00f-1bd82b924325" />
+
 
 ### Project Performance & EVM Analysis
-![Project Details](Detail%20Page-02.jpg)
+<img width="1919" height="897" alt="Detail Page-02" src="https://github.com/user-attachments/assets/8d08fbb2-91eb-4c75-a476-db5d188223f2" />
+
 
 This project was developed using real enterprise data. Screenshots have been partially anonymized to protect confidential organizational and project information.
 
