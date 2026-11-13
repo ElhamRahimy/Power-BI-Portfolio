@@ -15,11 +15,11 @@ Project scheduling data was exported from **Microsoft Project (MSP) to Excel**, 
 
 Note: This dashboard uses synthetic sample data for demonstration and portfolio purposes.
 
-##Dashboard Demo
+## Dashboard Demo
 Watch the Power BI dashboard demonstration:
 
+https://github.com/user-attachments/assets/c3c7fe9e-1ddd-481f-a014-d75e7c5cb26a
 
-https://github.com/user-attachments/assets/28e1031e-4f9c-4b34-8ee9-ba9ac6ffbd25
 
 
 
