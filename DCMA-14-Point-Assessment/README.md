@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard designed to evaluate project schedule quality and health based on the **DCMA 14-Point Schedule Assessment** framework.
 
-Project scheduling data was exported from Microsoft Project (MSP) to Excel, then processed and analyzed in Power BI.
+Project scheduling data was exported from **Microsoft Project (MSP) to Excel**, then processed and analyzed in Power BI.
 
 ## Key Features:
 - Assessment of project schedule quality using DCMA metrics.
