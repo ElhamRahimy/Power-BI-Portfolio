@@ -47,7 +47,7 @@ This project demonstrates the ability to work with complex enterprise project ma
 
 ## Tools & Technologies
 
-Power BI | Earned Value Management (EVM) | Project Portfolio Management | Project Controls | Financial Analytics | KPI Reporting | Data Visualization
+Power BI | Microsoft Project Server | SQL Server | Project Portfolio Management (PPM) | Earned Value Management (EVM) | Enterprise BI | Project Controls | Data Integration
 
 ## Dashboard Screenshots
 
